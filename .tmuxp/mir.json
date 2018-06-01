@@ -1,0 +1,48 @@
+{
+  "windows": [
+    {
+      "panes": [
+        {
+          "shell_command": "ls -la",
+          "start_directory": "~/Dropbox/Bitbucket/mir",
+          "focus": true
+        },
+        {
+          "shell_command": "mir dev",
+          "start_directory": "~/Dropbox/Bitbucket/mir-demo"
+        },
+        {
+          "shell_command": "npm run dev",
+          "start_directory": "~/Dropbox/Bitbucket/mir/admin"
+        }
+      ],
+      "window_name": "Mir",
+      "layout": "tile",
+      "focus": true
+    },
+    {
+      "panes": [
+        {
+          "shell_command": null,
+          "start_directory": "~"
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Projects/"
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Github/"
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Bitbucket/"
+        }
+      ],
+      "window_name": "Default",
+      "layout": "tile"
+    }
+  ],
+  "start_directory": "~/Dropbox/Bitbucket/mir",
+  "session_name": "Mir"
+}

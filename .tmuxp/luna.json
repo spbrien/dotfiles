@@ -1,0 +1,22 @@
+{
+  "windows": [
+    {
+      "panes": [
+        {
+          "shell_command": "pipenv shell",
+          "start_directory": "~/Dropbox/BitBucket/luna",
+          "focus": true
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/BitBucket/luna"
+        }
+      ],
+      "window_name": "Luna",
+      "layout": "even-horizontal",
+      "focus": true
+    }
+  ],
+  "start_directory": "~/Dropbox/BitBucket/luna",
+  "session_name": "Luna"
+}

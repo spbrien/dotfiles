@@ -1,0 +1,31 @@
+{
+  "windows": [
+    {
+      "panes": [
+        {
+          "shell_command": "ls -la",
+          "start_directory": "~/Dropbox/Projects/taco-frontend-platform",
+          "focus": true
+        },
+        {
+          "shell_command": "npm run watch",
+          "start_directory": "~/Dropbox/Projects/taco-frontend-platform"
+        }
+      ],
+      "window_name": "Taco",
+      "start_directory": "~/Dropbox/Projects/taco-frontend-platform",
+      "layout": "even-horizontal",
+      "focus": true
+    },
+    {
+      "panes": [
+        {
+          "shell_command": "vagrant up"
+        }
+      ],
+      "start_directory": "~/Dropbox/Homestead",
+      "window_name": "Homestead"
+    }
+  ],
+  "session_name": "Taco"
+}

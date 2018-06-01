@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/sbrien/Documents/Projects/mon-agseed-select-public/src/js'
+let g:netrw_dirhist_2='/Users/sbrien/Documents/Projects/mon-agseed-select-public/src/js/view-components'
+let g:netrw_dirhist_3='/Users/sbrien/Documents/Projects/mon-agseed-select-public/src/js/view-components/saveGuide'
+let g:netrw_dirhist_4='/Users/sbrien/Desktop/elysia-portfolio-redux/admin/config'
+let g:netrw_dirhist_5='/Users/sbrien'
+let g:netrw_dirhist_6='/Users/sbrien/.ssh'
+let g:netrw_dirhist_7='/Users/sbrien/.ansible'

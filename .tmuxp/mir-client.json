@@ -1,0 +1,22 @@
+{
+  "windows": [
+    {
+      "panes": [
+        {
+          "shell_command": "ls -la",
+          "start_directory": "~/Dropbox/Projects/mir-client",
+          "focus": true
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Projects/mir-client"
+        }
+      ],
+      "window_name": "Mir Client",
+      "layout": "even-horizontal",
+      "focus": true
+    }
+  ],
+  "start_directory": "~/Dropbox/Projects/mir-client",
+  "session_name": "Mir Client"
+}

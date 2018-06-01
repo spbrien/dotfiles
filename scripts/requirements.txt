@@ -1,0 +1,9 @@
+pipenv
+httpie
+twine
+ansible
+awscli
+cookiecutter
+records
+jmespath
+grakn

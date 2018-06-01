@@ -1,0 +1,38 @@
+{
+  "windows": [
+    {
+      "panes": [
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue",
+          "focus": true
+        },
+        {
+          "shell_command": "npm install && npm run dev",
+          "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue/hlkagency-client"
+        }
+      ],
+      "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue",
+      "window_name": "HLK Client",
+      "layout": "even-horizontal",
+      "focus": true
+    },
+    {
+      "panes": [
+        {
+          "shell_command": "mir dev",
+          "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue/api"
+        },
+        {
+          "shell_command": null,
+          "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue/api/application"
+        }
+      ],
+      "window_name": "HLK API",
+      "layout": "even-horizontal",
+      "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue/api"
+    }
+  ],
+  "start_directory": "~/Dropbox/Projects/hlk-hlkagency-vue",
+  "session_name": "HLK"
+}
